@@ -2,7 +2,7 @@
   "name": "jquery-prevent",
   "version": "0.0.1",
   "description": "Simple toggle button to change the normal state of a button to a push state and vice versa",
-  "main": "prevent.js",
+  "main": "jquery-prevent.js",
   "repository": {
     "url": "https://github.com/saulsluz/jquery-prevent.git",
     "type": "git"
